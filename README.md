@@ -115,7 +115,7 @@ docker buildx build \
 
 ```
 
-![Screenshot 2568-06-20 at 12.10.21 PM.png](Project-001%20AWS%20Ubuntu%20Server%20Setup%20with%20Dockerise%202165fbbfbfd3808e83b2ece36d5327ed/Screenshot_2568-06-20_at_12.10.21_PM.png)
+![Screenshot 2568-06-20 at 12.10.21 PM.png](screenshots/Screenshot_2568-06-20_at_12.10.21_PM.png)
 
 ---
 
@@ -123,11 +123,11 @@ docker buildx build \
 
 1. Launch EC2 instance (Ubuntu 22.04, `t2.micro`)
 
-   ![Screenshot 2568-06-20 at 10.25.04 AM.png](Project-001%20AWS%20Ubuntu%20Server%20Setup%20with%20Dockerise%202165fbbfbfd3808e83b2ece36d5327ed/Screenshot_2568-06-20_at_10.25.04_AM.png)
+   ![Screenshot 2568-06-20 at 10.25.04 AM.png](screenshots/Screenshot_2568-06-20_at_10.25.04_AM.png)
 
 2. Create security group with the folowing inbound rules and use it in EC2 instance.
 
-![Screenshot 2568-06-20 at 12.33.37 PM.png](Project-001%20AWS%20Ubuntu%20Server%20Setup%20with%20Dockerise%202165fbbfbfd3808e83b2ece36d5327ed/Screenshot_2568-06-20_at_12.33.37_PM.png)
+![Screenshot 2568-06-20 at 12.33.37 PM.png](screenshots/Screenshot_2568-06-20_at_12.33.37_PM.png)
 
 1. SSH into the server:
 
@@ -157,11 +157,11 @@ docker buildx build \
     
     ```
 
-   ![Screenshot 2568-06-20 at 12.44.04 PM.png](Project-001%20AWS%20Ubuntu%20Server%20Setup%20with%20Dockerise%202165fbbfbfd3808e83b2ece36d5327ed/Screenshot_2568-06-20_at_12.44.04_PM.png)
+   ![Screenshot 2568-06-20 at 12.44.04 PM.png](screenshots/Screenshot_2568-06-20_at_12.44.04_PM.png)
 
 5. Accessing from the browser.
 
-![Screenshot 2568-06-20 at 1.13.56 PM.png](Project-001%20AWS%20Ubuntu%20Server%20Setup%20with%20Dockerise%202165fbbfbfd3808e83b2ece36d5327ed/Screenshot_2568-06-20_at_1.13.56_PM.png)
+![Screenshot 2568-06-20 at 1.13.56 PM.png](screenshots/Screenshot_2568-06-20_at_1.13.56_PM.png)
 
 ## 📄 Documentation & Maintenance
 
