@@ -1,4 +1,4 @@
-AWS Ubuntu Server Setup with Dockerised Spring Boot Web Application
+# AWS Ubuntu Server Setup with Dockerised Spring Boot Web Application
 
 Owner: Chaw Theingi
 Created time: June 18, 2025 4:58 PM
